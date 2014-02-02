@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Script" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
+    <module name="Scala" />
+    <setting name="path" value="$PROJECT_DIR$/Scala/Scala.iml" />
+    <setting name="vmparams" value="" />
+    <setting name="consoleargs" value="" />
+    <setting name="params" value="" />
+    <setting name="workingDirectory" value="$PROJECT_DIR$" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>
